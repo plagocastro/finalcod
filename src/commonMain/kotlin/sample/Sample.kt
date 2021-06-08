@@ -16,5 +16,6 @@ fun main() {
         println("$contador = $it")
         contador++
     }
-
+    println("3")
+    ej3().nimpares(naleaorios.aleatorios)
 }
